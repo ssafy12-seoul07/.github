@@ -3,7 +3,9 @@
 
 ## 🍑 [오늘의 수업 ](https://github.com/ssafy12-seoul07/today/) 
 <br>
+## 🥼 [우리반 면담신청](https://calendly.com/edujihye321/12-7-1-1)
 
+<br>
 ## 🎁 우리반 규칙
 ```
 0️⃣ 수업을 위한 기본 셋팅 제발 꼭 절대 잘 따라하기

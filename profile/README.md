@@ -27,12 +27,12 @@
 ```
 대장님: 민주프로님
 옆반요정: 
-헤일리왼팔: 
-헤일리오른팔: 
-헤일리등:  
-반장: 
-CA1: 
-CA2: 
+헤일리등: 혜민 
+헤일리오른팔: 재현
+헤일리왼팔: 현수
+초롱왕: 혜원킴
+금쪽왕: 윤준
+커피왕: 홍균
 서술형요정: 
 서술형왕자: 
 첫째딸: 
@@ -43,14 +43,15 @@ CA2:
 둘째아들: 
 셋째아들: 
 막내아들: 
-git짱: 
-java짱: 
-알고짱: 
-front짱: 
-db짱: 
-back짱: 
-spring짱: 
-vue짱: 
+git짱: TBA
+java짱: TBA
+알고짱: TBA
+front짱: TBA
+db짱: TBA
+back짱: TBA
+spring짱: TBA
+vue짱: TBA
 ```
 
-[경찬이 gihub](https://github.com/gyeongmann)
+## 우리의 자리 
+<img src="/profile/assets/0715_0823_자리.png" style="width:100%;" alt="0715_0823_자리"/>
